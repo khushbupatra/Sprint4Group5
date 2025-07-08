@@ -1,0 +1,41 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/projectdb
+    username: chirayu
+    password: 123456789
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql:  true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+  cloud:
+    gateway:
+          routes:
+            - id: address-service
+              uri: http://localhost:8080
+              predicates:
+                - Path=/Address/**
+
+            - id: cart-service
+              uri: http://localhost:8080
+              predicates:
+                - Path=/cart/**
+
+            - id: addtocart-service
+              uri: http://localhost:8080
+              predicates:
+                - Path=/AddtoCart/**
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75b0a160-a289-4eb0-bb30-e230cbb77741" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../S3D5" beforeDir="false" afterPath="$PROJECT_DIR$/../S3D5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/.idea/S4D3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/1-role-based-access-control/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/2-theme-switcher/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/3-redux-cart-users/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/4-redux-toolkit-cart-users/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/src/assets/react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4D3/5-hoc-admin-access/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/src/main/java/com/nisum/S4DAY2/S4Day2Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../S4DAY2/src/test/java/com/nisum/S4DAY2/S4Day2ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint2Project" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint2Project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sprint3Group5" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint3Group5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment_questions/Sprint 4 Day 2 - Daily Assignment.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_questions/Sprint 4 Day 2 - Daily Assignment.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment_questions/~$rint 4 Day 3 - Daily Assignment.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newreact-redux" beforeDir="false" afterPath="$PROJECT_DIR$/../newreact-redux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactjs/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/../reactjs/my-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2zbQoB13oFDGbjzBAnIlS578kkG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/nisum/kafka",
+    "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b0a160-a289-4eb0-bb30-e230cbb77741" name="Changes" comment="" />
+      <created>1751997466236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751997466236</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -87,6 +87,13 @@
       <change beforePath="$PROJECT_DIR$/../S4DAY2/src/test/java/com/nisum/S4DAY2/S4Day2ApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sprint2Project" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint2Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Sprint3Group5" beforeDir="false" afterPath="$PROJECT_DIR$/../Sprint3Group5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sprint4Group5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sprint4Group5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackEnd/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/BackEnd/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/styles/Checkout.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/styles/Checkout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment_questions/Sprint 4 Day 2 - Daily Assignment.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment_questions/Sprint 4 Day 2 - Daily Assignment.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment_questions/~$rint 4 Day 3 - Daily Assignment.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../newreact-redux" beforeDir="false" afterPath="$PROJECT_DIR$/../newreact-redux" afterDir="false" />
@@ -128,14 +135,56 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Sprint4ShoppingCartApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/nisum/kafka",
+    "last_opened_file_path": "E:/nisum/Sprint4Group5",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\nisum\Sprint4Group5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Sprint4ShoppingCartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sprint4ShoppingCart.Sprint4ShoppingCart.Sprint4ShoppingCartApplication" />
+      <module name="Sprint4ShoppingCart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Sprint4ShoppingCart.Sprint4ShoppingCart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Sprint4Group5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Sprint4Group5" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sprint4ShoppingCartApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
